@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    color:white;
+}
+h1{
+    text-align: center;
+    color:aqua;
+}
+.heading{
+    background-color: rgb(27, 68, 201);
+    width: 50vw;
+    height: 50vh;
+    font-size: 24px;
+}
